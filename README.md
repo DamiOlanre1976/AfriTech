@@ -1,7 +1,7 @@
 # Synthetic Healthcare Dataset — Data Cleaning & Exploratory Data Analysis (SQL)
 
 ## 📌 Project Overview
-This project uses a **synthetic healthcare dataset** created to serve as a valuable resource for **data science, machine learning, and data analysis enthusiasts**.  
+This project uses a **synthetic healthcare dataset** from kaggle to serve as a valuable resource for **data science, machine learning, and data analysis enthusiasts**.  
 It is designed to **mimic real-world healthcare records**, enabling users to practice, develop, and showcase their **data manipulation and analysis skills** in the healthcare domain.
 
 The dataset includes information such as:
